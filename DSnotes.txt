@@ -1,0 +1,44 @@
+jsoma [7:48 PM]
+@channel Some of you weren't aware, but for Data Studio you'll be having a different mentor each week providing feedback on your projects! I'm going to be assigning their schedules this week, so please direct message me if you have any strong preferences (e.g. gender, etc) and I'll see if I can tweak things for you
+
+jsoma [7:57 PM]
+These mentors are real, actual data journalists who will be providing feedback on your stories and visualizations. They probably aren't the best to ask for coding advice, but everything else is usually fair game (depending on their skillset). You'll be talking to them twice a week for about 30 minutes.
+
+
+
+
+
+
+jsoma [2:45 PM]
+@channel I hear there's some confusion about WEEKLY PROJECTS! Here are some answers to questions I've been asked or statements I predict I'll hear, but feel free to ask more here in the channel so I can answer them for everyone.
+
+*"Do we have to do one of those maps every week?"* 
+No! You actually should not make maps! You're meant to do a normal data story - probably with some bar plots, maybe scatterplots, etc, along with some words. Pretend you work for The Upshot or something.
+
+*"Should we be working on data analysis or scraping or visualization or on..?"*
+You'll be using all of those skills - you should start with an idea (or, if that fails, a dataset), and then create a data-driven piece based on it. Use whatever skills it takes to get there, and learn whatever new ones it takes. Your finished product should have some words and a few nice-looking charts.
+
+*"I don't know how to make graphics!"*
+They aren't going to be a perfect dream, but if you do the Illustrator homework I sent out you'll get a lot better at taking ugly graphics from Python and turning them into something nice. For your first meeting with your mentor you'll want to have a few basic graphics exported (or screenshotted) from Python so that you can show you've done work to see if the dataset is okay.
+
+*"My analysis is boring there's nothing in this dataset!"*
+It doesn't matter!!!! If your result is really boring and your analysis is very simple, it's fine to just spend your time making your graphic look nice. You don't need design skills, it's enough to try to copy the styles of a real published graphic that you think looks nice.
+
+Again, happy to answer more questions if you have 'em.
+
+
+
+
+jsoma [6:39 PM]
+@channel The official schedule next week:
+*MONDAY:* Data Studio 10am-1pm
+*TUESDAY:* Lede is OFF, Data MS students are doing various Reporting things 9am-4pm (you should have gotten an email from your instructors)
+*WEDNESDAY:* Data Studio *9am-12pm* (so yes, lab is 1pm-4pm)
+*THURSDAY:* OFF
+*FRIDAY:* Algorithms 10am-1pm (Lede only)
+*SATURDAY:* Algorithms 10am-1pm (Lede only)
+And note that no matter whether you're Lede or Data MS, we'll be having lab in the afternoon for help with personal projects
+
+
+
+
