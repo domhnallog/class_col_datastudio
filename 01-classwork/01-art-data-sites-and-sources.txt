@@ -1,0 +1,40 @@
+
+
+https://github.com/MuseumofModernArt/collection
+https://github.com/tategallery/collection
+https://github.com/cooperhewitt/collection
+http://www.penn.museum/collections/data.php
+https://www.rijksmuseum.nl/en/api
+https://www.brooklynmuseum.org/opencollection/api/
+https://medium.com/@blprnt/a-sort-of-joy-1d9d5ff02ac9
+https://www.imls.gov/research-evaluation/data-collection/museum-universe-data-file
+
+http://www.metmuseum.org/blogs/digital-underground/2017/open-access-at-the-met
+https://github.com/metmuseum/openaccess
+http://www.metmuseum.org/art/collection#!?perPage=20&showOnly=withImage%7Copenaccess&sortBy=Relevance&sortOrder=asc&offset=0&pageSize=0
+https://images.nga.gov/en/page/show_home_page.html
+http://search.getty.edu/gateway/search?q=&cat=highlight&f=%22Open+Content+Images%22&rows=10&srt=a&dir=s&pg=1
+https://www.rijksmuseum.nl/en/api
+https://tinyletter.com/data-is-plural/letters/data-is-plural-2015-11-04-edition
+
+
+https://developers.artsy.net/v2/
+
+
+
+
+
+
+The World Cities Culture Forum, a convening of 32 major cities on six continents, 
+has assembled a series of mini-datasets on 70+ “cultural indicators”. Those indicators 
+range from the number of art galleries in rach city (Paris had 1,151 in 2012) to the number 
+of international tourists each city sees per year (Istanbul had 11.8 million in 2014) 
+to the value of cinema ticket sales (Shanghai sold $563 million in 2014). Note: The data 
+points draw on various sources — at least one just says “Google” — and aren’t necessarily 
+directly comparable. [h/t Camilo Moreno]	
+http://www.worldcitiescultureforum.com/
+http://www.worldcitiescultureforum.com/data
+http://www.worldcitiescultureforum.com/data/art-galleries
+http://www.worldcitiescultureforum.com/data/number-of-international-tourists-per-year
+http://www.worldcitiescultureforum.com/data/total-value-of-cinema-ticket-sales-per-year-ppp
+http://www.worldcitiescultureforum.com/data/number-of-comedy-clubs
